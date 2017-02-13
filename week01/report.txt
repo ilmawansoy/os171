@@ -1,5 +1,6 @@
-Short desc:
-	- push pull
-	- command2
-	- remove
-	- pull
+Summary:
+	- push,pull
+	- command2 git
+	- cek directory
+	- directory management
+
