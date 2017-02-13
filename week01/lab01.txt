@@ -19,3 +19,4 @@ drwxr-xr-x  2 muhammad.risyad52 StafCS 4096 Feb 13 17:08 week08
 drwxr-xr-x  2 muhammad.risyad52 StafCS 4096 Feb 13 17:08 week09
 drwxr-xr-x  2 muhammad.risyad52 StafCS 4096 Feb 13 17:08 week10
 drwxr-xr-x  2 muhammad.risyad52 StafCS 4096 Feb 13 17:09 xtra
+Today is 13 Feb 2017 at 18:11:58
