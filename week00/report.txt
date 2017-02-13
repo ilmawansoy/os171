@@ -1,0 +1,3 @@
+short description week00:
+	bikin akun git, konfirmasi, login ke badak.
+
