@@ -2,6 +2,7 @@ w01-170213-16-PS-About: Mengerjakan Lab week01
 w01-170214-13-LS-About: Hak kekayaan intelektual, Intro to CLI, from: Lecturer
 w01-170214-14-LS-About: Hak kekayaan intelektual, Intro to CLI, from: Lecturer
 w02-170221-13-PS-About: Mengerjakan Lab week02
+w01-170221-14-LS-About: Security, from: Lecturer
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
