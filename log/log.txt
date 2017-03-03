@@ -4,7 +4,7 @@ w01-170214-14-LS-About: Hak kekayaan intelektual, Intro to CLI, from: Lecturer
 w02-170221-13-PS-About: Mengerjakan Lab week02
 w02-170221-14-LS-About: Security, from: Lecturer
 w03-170228-14-LS-About: Startup,Boot,BIOS from: Lecturer
-w03-170302-11-LS-About: Mengerjakan Lab week03 from: Lecturer
+w03-170302-11-LS-About: Mengerjakan Lab week03
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
