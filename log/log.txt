@@ -1,22 +1,27 @@
 w01-170213-16-PS-About: Mengerjakan Lab week01
+w01-170213-16-PS-About: Mengerjakan Lab week01
+w01-170213-16-PS-About: Mengerjakan Lab week01
 w01-170214-13-LS-About: Hak kekayaan intelektual, Intro to CLI, from: Lecturer
 w01-170214-14-LS-About: Hak kekayaan intelektual, Intro to CLI, from: Lecturer
 w02-170221-13-PS-About: Mengerjakan Lab week02
+w02-170221-13-PS-About: Mengerjakan Lab week02
 w02-170221-14-LS-About: Security, from: Lecturer
+w02-170221-14-LS-About: Security, from: Lecturer
+w03-170228-14-LS-About: Startup,Boot,BIOS from: Lecturer
 w03-170228-14-LS-About: Startup,Boot,BIOS from: Lecturer
 w03-170302-11-PS-About: Mengerjakan Lab week03
 w04-170307-13-LS-About: I/O, pointer dan local/global variable, from: Lecturer
-w04-170307-13-LS-About: Latihan worksheet pointer dan local/global variable, from: Lecturer
-w04-170307-13-PS-About: Mengerjakan Lab week04
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
-[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
+w04-170307-13-LS-About: I/O, pointer dan local/global variable, from: Lecturer
+w04-170309-13-LS-About: Latihan worksheet pointer dan local/global variable, from: Lecturer
+w04-170309-13-LS-About: Latihan worksheet pointer dan local/global variable, from: Lecturer
+w04-170310-16-PS-About: Mengerjakan Lab week04
+w04-170310-16-PS-About: Mengerjakan Lab week04
+w04-170310-16-PS-About: Mengerjakan Lab week04
+w05-170315-16-PS-About: Mengerjakan Lab week05
+w05-170315-16-PS-About: Mengerjakan Lab week05
+w05-170314-13-LS-About: System & Memory, from: Lecturer
+w05-170314-13-LS-About: System & Memory, from: Lecturer
+w05-170316-13-LS-About: System & Memory, from: Lecturer
+w05-170316-13-LS-About: System & Memory, from: Lecturer
+
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
