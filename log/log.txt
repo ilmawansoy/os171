@@ -23,5 +23,12 @@ w05-170314-13-LS-About: System & Memory, from: Lecturer
 w05-170314-13-LS-About: System & Memory, from: Lecturer
 w05-170316-13-LS-About: System & Memory, from: Lecturer
 w05-170316-13-LS-About: System & Memory, from: Lecturer
+w06-170411-13-LS-About: Fork, from: Lecturer
+w06-170411-13-LS-About: Fork, from: Lecturer
+w06-170413-13-LS-About: Latihan worksheet Fork, from: Lecturer
+w06-170413-13-LS-About: Latihan worksheet Fork, from: Lecturer
+w06-170413-17-PS-About: Mengerjakan Lab week06
+w06-170413-17-PS-About: Mengerjakan Lab week06
+
 
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
