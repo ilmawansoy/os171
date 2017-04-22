@@ -29,6 +29,13 @@ w06-170413-13-LS-About: Latihan worksheet Fork, from: Lecturer
 w06-170413-13-LS-About: Latihan worksheet Fork, from: Lecturer
 w06-170413-17-PS-About: Mengerjakan Lab week06
 w06-170413-17-PS-About: Mengerjakan Lab week06
-
+w07-170418-13-LS-About: Virtualization, from Lecturer
+w07-170418-14-LS-About: Synchronization, from Lecturer
+w08-170420-13-LS-About: Scheduling, from Lecturer
+w08-170420-13-LS-About: CPU Utilization, From Lecturer
+w08-170420-14-LS-About: CPU Utilization, From Lecturer
+w08-170422-12-PS-About: Mengerjakan week07
+w08-170422-13-PS-About: Mengerjakan week07
+w08-170422-14-PS-About: Mengerjakan week07
 
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
