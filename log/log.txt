@@ -37,5 +37,9 @@ w08-170420-14-LS-About: CPU Utilization, From Lecturer
 w08-170422-12-PS-About: Mengerjakan week07
 w08-170422-13-PS-About: Mengerjakan week07
 w08-170422-14-PS-About: Mengerjakan week07
-
+w09-170425-13-LS-About: Proses bertingkat, Latihan CPU Burst, From Lecturer
+w09-170425-14-LS-About: Proses bertingkat, Latihan CPU Burst, From Lecturer
+w09-170428-14-LS-About: Mengerjakan week08
+w09-170428-15-LS-About: Mengerjakan week08
+w09-170428-16-LS-About: Mengerjakan week08
 [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
